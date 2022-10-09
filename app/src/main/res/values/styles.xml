@@ -19,4 +19,8 @@
         <item name="colorPrimaryDark">#808080</item>
     </style>
 
+    <style name="counterText">10</style>
+
+    <style name="counterOverride">10</style>
+
 </resources>
